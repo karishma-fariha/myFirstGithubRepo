@@ -122,3 +122,42 @@ border-radius:  48px;
 
 }
 
+/* section-2 */
+.title-3{
+
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    /* padding: 50px 142px 40px 142px; */
+}
+.about-items{
+    display:flex;
+    justify-content: space-around;
+    /* padding: 50px 142px; */
+    align-items: center;
+    border-top: 0;
+}
+.item-title{
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+    margin: 0;
+}
+.item-description{
+    margin-top: 0; 
+    color: #000000;
+    font-size: 20px;
+    /* font-weight: 100; */
+  
+}
+.part-2{
+    max-width: 1140px;
+background-color: rgb(222, 199, 244);
+margin: 0 auto;
+border-radius: 24px;
+text-align: center;
+margin-top: 130px;
+padding: 50px 142px;
+max-width: 1140px;
+height: 306px;
+}
